@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/lacoste-ace-breaker/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
