@@ -1,0 +1,6 @@
+{
+  "name": "Ace Breaker - 3D Tennis Arcade",
+  "description": "Full-screen, immersive 3D interactive tennis arcade experience inspired by the Lacoste Ace Breaker brand campaign with isometric court, floating targets, and dynamic bonus power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
